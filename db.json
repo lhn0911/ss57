@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Áo Đen",
+      "images": "https://bizweb.dktcdn.net/thumb/1024x1024/100/364/712/products/021204.jpg?v=1635825038117",
+      "price": 100,
+      "quantity": 10,
+      "created_at": "01/06/2022"
+    },
+    {
+      "id": 3,
+      "product_name": "Quần Jean Nữ",
+      "images": "https://quanjeandep.com/images/thumbs/quan-jean-nam-co-dien-dang-dung-501-505s-11507.jpeg",
+      "price": 150,
+      "quantity": 10,
+      "created_at": "02/06/2022"
+    },
+    {
+      "id": 4,
+      "product_name": "Áo Picolo",
+      "images": "https://product.hstatic.net/1000357687/product/vnmese_boizartboard_7_854b35c9decd417da863acb67bc356af_master.jpg",
+      "price": 300,
+      "quantity": 10,
+      "created_at": "12/05/2022"
+    },
+    {
+      "id": 5,
+      "product_name": "Áo thun xanh",
+      "images": "https://dosi-in.com/images/detailed/42/CDL4_1.jpg",
+      "price": 250,
+      "quantity": 10,
+      "created_at": "13/04/2022"
+    },
+    {
+      "name": "Product 4",
+      "id": 6
+    },
+    {
+      "name": "Product 4",
+      "id": 7
+    }
+  ]
+}
